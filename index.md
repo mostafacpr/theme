@@ -1,123 +1,80 @@
+
+<h1>
+<center> 
+        <p>
+         دانلود برنامه هیدیفای نکست
+        </p>
+</center>
+</h1>
+
+
 ---
-layout: default
+
+🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
+
+🟠 [*IOS*](https://apps.apple.com/us/app/streisand/id6450534064) _ [2 (testing)](https://testflight.apple.com/join/URrT6ZWm)
+
+🟠 [*windows*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip) 
+
+
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h3 dir="rtl">آندروید :</h3>
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<p dir="rtl">برنامه را دانلود و نصب میکنیم سپس با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم وسپس دکمه سبز رنگ (بارگذاری در برنامه ) رو میزنیم تا در برنامه هیدیفای نکست بارگذاری شود . </p>
 
 
-### Definition lists can be used with HTML syntax.
+---
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<h4 dir="rtl">فعالسازی فراگمنت در برنامه هیدیفای نکست برای سیم کارت های همراه اول  :</h4>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+![activefragmentinhiddifynextgif](https://github.com/mostafacpr/HiddifyNext/assets/120664716/6f0562bc-ebea-4505-a25a-f026d51beeb0)
 
-```
-The final element.
-```
+---
+
+<h4 dir="rtl">غیرفعال کردن بهینه سازی باتری در هیدیفای نکست :</h4>
+
+
+<img src="https://github.com/mostafacpr/HiddifyNext/assets/120664716/a86038ab-6e37-49cd-b0e1-8a9ea2095144" width="200" height="400" />
+  
+ 
+ 
+
+ ---
+
+ <h3 dir="rtl">آیفون :</h3>
+
+ <p dir="rtl">برنامه streisand رو از لینک زیر از اپل استور دانلود و نصب میکنیم </p> 
+
+🌈 [*streisand*](https://apps.apple.com/us/app/streisand/id6450534064)
+
+ 
+ 
+ <p dir="rtl">
+ با فیلترشکن خاموش روی لینک دریافتی کلیک میکنیم درصفحه بازشده روی قسمت قرمز رنگ ( کلیک برای اعمال فیلترشکن) میزنیم و نرم افزار های بیشتر رو میزنیم و دکمه سبز رنگ (بارگذاری در برنامه ) کنار برنامه streisand رو میزنم تا کانفیگ ها در برنامه وارد بشه سپس دکمه connect رو میزنیم.
+ 
+ </p>
+
+<p dir="rtl">فیلم آموزشی ==></p>
+
+✅ 🎥[streisand](https://drive.google.com/file/d/1Rt52BTSyQ-yogfVQOoz0PtRmY0RmT8f8/view)
+
+
+
+<p dir="rtl">گزینه Setting > subscription > update on open رو هم بزنین . تا در هربار بازشدن برنامه کانفیگ های جدید رو دریافت کنه. طبق فیلم پایین.</p>
+
+<p dir="rtl">فیلم آموزشی ==></p>
+
+✅ 🎥[Update on open](https://drive.google.com/file/d/1J2bxjsazmLSwviAnfgWbHNf-5ErjebKC/view)
+
+
+
+
+ 
+________________________________________
+
+ Contact Us → [Telegram](http://t.me/fastfixgsm) & [gfix4600@gmail.com](mailto:gfix4600@gmail.com)
+
+
+
